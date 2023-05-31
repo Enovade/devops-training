@@ -14,6 +14,10 @@ Latihan ini adalah untuk pemasangan ***Git client***
 git --version
 ```
 
+### Langkah 1.2: Pemasangan *Visual Studio Code*
+* Untuk yang tiada **Visual Studi Code**
+* Muat turun VS Code dari https://code.visualstudio.com/download
+
 ## Langkah 2.0: Konfigurasi *Git client*
 Latihan ini adalah untuk konfigurasi ***Git client***
 
@@ -64,6 +68,18 @@ Latihan ini adalah untuk konfigurasi ***Git client***
 mkdir mygit
 cd mygit
 ```
+
+### Langkah 3.3: Tetapan Git untuk GitHub
+
+* Taip kod berikut untuk membuat tetapan Git - projek GitHub, sila tukar maklumat yang sesuai
+
+```
+git config --global user.name "GitLab ID/Name"
+git config --global user.email "Email to access GitLab"
+git config --global --list
+
+```
+
 * Taip kod seperti berikut untuk wujudkan ***local repository*** dan muatnaik ke GitHub sebagai ***remote repository***
 
 ```
