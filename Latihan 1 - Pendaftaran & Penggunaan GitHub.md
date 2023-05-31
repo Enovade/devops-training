@@ -6,7 +6,7 @@ Latihan ini adalah untuk menunjukkan langkah pendaftaran & penggunaan GitHub
 Latihan ini adalah untuk mewujudkan akaun GitHub
 *  Layari laman **https://github.com/** dan buat pendaftaran baru - ***Sign up*** dan masukkan maklumat yang diperlukan.
 
-<img width="600" alt="image" src="https://github.com/Enovade/devops-training/assets/99636296/4219dad3-b0d4-4c97-b06d-7c133b8c520d">
+<img width="600" alt="image" src="https://github.com/Enovade/devops-training/assets/99636296/9cb54d7a-50d6-409a-b1e3-346e7ec66f96">
 
 ## Langkah 2.0: Penggunaan GitHub
 Berikut adalah contoh laman GitHub anda setelah selesai pendaftaran
